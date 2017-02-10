@@ -6,4 +6,6 @@ Cliff Walking
 Windy Gridworld
 Gridworld
 
+The three different IPython Notebooks have different results (the theory is the same). So, just see the results.
+
 More flavours of environments to be added soon.
