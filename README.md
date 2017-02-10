@@ -10,6 +10,8 @@ Cliff Walking
 Windy Gridworld
 Gridworld
 
-The three different IPython Notebooks have different results (the theory is the same). So, just see the results.
+The three different IPython Notebooks have different results (the theory is the same) for the different environments.
+The notebook contains expalnation, code, results, analysis and critical comments.
+
 
 More flavours of environments to be added soon.
