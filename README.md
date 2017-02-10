@@ -1,3 +1,9 @@
+By Pulkit Khandelwal
+
+Paper: A Theoretical and Empirical Analysis of Expected Sarsa by
+Harm van Seijen, Hado van Hasselt, Shimon Whiteson and Marco Wiering
+
+
 Temporal Difference Learning Methods compared:
 Sarsa, Expected Sarsa and Q-learning
 
