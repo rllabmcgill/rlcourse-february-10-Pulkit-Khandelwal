@@ -1,8 +1,8 @@
 Temporal Difference Learning Methods compared:
 Sarsa, Expected Sarsa and Q-learning
 
-Sarsa: On-policy TD Control.
-Q-learning: Off-policy TD Control.
+Sarsa: On-policy TD Control;
+Q-learning: Off-policy TD Control;
 Expected Sarsa: On-policy Q-learning.
 
 Three environments:
