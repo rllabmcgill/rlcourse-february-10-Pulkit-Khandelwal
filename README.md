@@ -12,7 +12,7 @@ Q-learning: Off-policy TD Control;
 Expected Sarsa: On-policy Q-learning.
 
 Three environments:
-Cliff Walking
+Windy falvour of Cliff Walking
 Windy Gridworld
 Gridworld
 
