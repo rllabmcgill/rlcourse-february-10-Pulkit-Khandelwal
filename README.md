@@ -12,9 +12,11 @@ Q-learning: Off-policy TD Control;
 Expected Sarsa: On-policy Q-learning.
 
 Three environments:
-Windy falvour of Cliff Walking
-Windy Gridworld
-Gridworld
+Windy falvour of Cliff Walking;
+
+Windy Gridworld;
+
+Gridworld.
 
 The three different IPython Notebooks have different results (the theory is the same) for the different environments.
 The notebook contains expalnation, code, results, analysis and critical comments.
